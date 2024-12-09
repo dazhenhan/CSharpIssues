@@ -1,0 +1,13 @@
+bin/
+obj/
+packages/
+.mono
+
+*.suo
+*.GhostDoc.xml
+*.user
+.vs
+*.rdb
+*.exe.config
+*.resources.dll
+*.exe.manifest
